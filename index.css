@@ -1,0 +1,73 @@
+body {
+   background: white;
+   margin: auto;
+
+}
+
+.from {
+   width: 400px;
+   height: 500px;
+   background: #000000c4;
+   margin: 152px auto;
+   display: block;
+}
+
+.head {
+   text-align: center;
+   font-family: arial black;
+}
+
+h2 {
+   display: inline-block;
+   margin-top: 50px;
+}
+
+.inpt {
+   text-align: center;
+}
+
+.box {
+   padding: 10px;
+   background: #E6E6E6;
+   color: #443e3e;
+   outline: none;
+   border: none;
+   width: 300px;
+}
+
+.ck {
+    margin-left: -200px;
+}
+
+span {
+    color: #fb5200;
+}
+
+.btn {
+    background: #C44C8A;
+    width: 100px;
+    padding: 10px;
+    border: #C44C8A;
+}
+.btn:hover{
+  background: #4c2953;
+  color: white;
+  cursor: pointer;;
+}
+.p{
+  text-decoration: none;
+
+}
+.creat.account a  {
+
+ font-family: arial;
+ color: #7aa1ff;
+ text-decoration: none;
+ padding-right: 188px;
+ font-size: 12px;
+ line-height: 5px;
+ font-weight: bold;
+}
+h2 {
+  color: #ff2626;
+}

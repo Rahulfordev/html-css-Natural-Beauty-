@@ -1,0 +1,20 @@
+<footer>
+ <div class="copyright">
+        <p>copyright &copy; 2020 by fReelancerRahul.All right reserved.</p>
+ </div>
+     </footer>
+
+
+    footer {
+      max-width: 1170px;
+      margin: 0 auto;
+      padding: 15px;
+      background: #f5f5f5;
+      margin-top: 10px;
+    }
+.copyright {
+  border-radius: 3px;
+  background:  #dda285;
+  float: center;
+  padding: 15px;
+}
